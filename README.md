@@ -1,1 +1,2 @@
-# PHP-exerc-cio
+# PHP-exercício
+## Caio Gonçalves Machado, Murilo Holtz
