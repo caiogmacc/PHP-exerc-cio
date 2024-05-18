@@ -1,2 +1,2 @@
-# PHP-exercício
+# Atitudinal AOS
 ## Caio Gonçalves Machado, Murilo Holtz
